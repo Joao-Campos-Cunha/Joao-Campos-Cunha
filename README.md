@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on finishing m degree.
+- 🌱 I’m currently learning AI agents
+- 💬 Ask me about anything
 <!--
 **Joao-Campos-Cunha/Joao-Campos-Cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
