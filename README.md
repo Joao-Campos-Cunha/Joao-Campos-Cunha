@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on finishing m degree.
+- 🔭 I’m currently working on finishing my degree.
 - 🌱 I’m currently learning AI agents
 - 💬 Ask me about anything
 <!--
